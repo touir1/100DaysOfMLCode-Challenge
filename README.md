@@ -1,5 +1,7 @@
 # 100 Days Of ML - LOG
 
+This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
+
 ## Day 1 : July 09 , 2018
  
 **Today's Progress** : 
