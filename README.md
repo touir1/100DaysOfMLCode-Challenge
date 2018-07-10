@@ -31,7 +31,14 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **What I learned**:
 
-* To complete
+* Some basic [ML terminologies]()
+* Basic [Linear Regression](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression)
+* a Loss functions named [Mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error)
 
-**Link of Work:**   [To complete]() Github Repository.
+**Link of Work:**   Passed the time reading
+
+**TODO Next:**
+- [] Test out the linear regression algorithm (coded from scratch and using some ML libraries)
+- [] Try to represent data into graphs
+- [] Learn how to animate the learning process of ML algorithms
 
