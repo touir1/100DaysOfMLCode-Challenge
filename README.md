@@ -13,10 +13,10 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **What I learned**:
 
-* How to create + fill a csv file
-* How to use tweepy (twitter python API)
-* How to do a sentiment analysis using a bag of words based algorithm (Naive Bayes implemented in the TextBlob library)
-* How to use re library (for regex on strings)
+* How to create + fill a csv file.
+* How to use tweepy (twitter python API).
+* How to do a sentiment analysis using a bag of words based algorithm (Naive Bayes implemented in the TextBlob library).
+* How to use re library (for regex on strings).
 
 **Link of Work:**   [sentiment-analysis-twitter-textblob](https://github.com/touir1/sentiment-analysis-twitter-textblob) Github Repository.
 
@@ -24,21 +24,22 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* Started watching a video by Siraj Raval on Recommendation Systems
-* Dropped watching that video and started a machine learning course from scratch by [Google](https://www.google.com) ([Introduction to machine learning](https://developers.google.com/machine-learning/crash-course/)).
+* Started watching a video by Siraj Raval on Recommendation Systems.
+* Dropped watching that video and started a machine learning course from scratch by [Google](https://www.google.com) ([Introduction to machine learning](https://developers.google.com/machine-learning/crash-course/)). I stopped after finishing the <b>Descending into ML</b> section. 
 
 **Thoughts** : It wasn't as easy as yesterday to understand the content of a video on machine learning. It had a lot of terms that I don't know so I prefered to start from scratch learning ML.
 
 **What I learned**:
 
-* Some basic [ML terminologies](https://developers.google.com/machine-learning/crash-course/framing/ml-terminology)
-* Basic [Linear Regression](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression)
-* A loss functions named [Mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error)
+* Some basic [ML terminologies](https://developers.google.com/machine-learning/crash-course/framing/ml-terminology).
+* Basic [Linear Regression](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression).
+* A loss functions named [Mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error).
+* How to use the [markdown](https://medium.com/ibm-data-science-experience/markdown-for-jupyter-notebooks-cheatsheet-386c05aeebed) in the jupyter notebook.
 
 **Link of Work:**   I passed the time reading so no work examples for today.
 
 **TODO Next:**
-- [ ] Test out the linear regression algorithm with python(coded from scratch and using some ML libraries)
-- [ ] Try to represent data into graphs with python
-- [ ] Learn how to animate the learning process of ML algorithms
+- [ ] Test out the linear regression algorithm with python(coded from scratch and using some ML libraries).
+- [ ] Try to represent data into graphs with python.
+- [ ] Learn how to animate the learning process of ML algorithms.
 
