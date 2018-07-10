@@ -38,7 +38,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:**   Passed the time reading
 
 **TODO Next:**
-- [] Test out the linear regression algorithm (coded from scratch and using some ML libraries)
-- [] Try to represent data into graphs
-- [] Learn how to animate the learning process of ML algorithms
+- [ ] Test out the linear regression algorithm (coded from scratch and using some ML libraries)
+- [ ] Try to represent data into graphs
+- [ ] Learn how to animate the learning process of ML algorithms
 
