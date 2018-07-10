@@ -19,3 +19,18 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 * How to use re library (for regex on strings)
 
 **Link of Work:**   [sentiment-analysis-twitter-textblob](https://github.com/touir1/sentiment-analysis-twitter-textblob) Github Repository.
+
+## Day 2 : July 10 , 2018
+ 
+**Today's Progress** : 
+
+* To complete
+
+**Thoughts** : To complete
+
+**What I learned**:
+
+* To complete
+
+**Link of Work:**   [To complete]() Github Repository.
+
