@@ -33,7 +33,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Some basic [ML terminologies](https://developers.google.com/machine-learning/crash-course/framing/ml-terminology)
 * Basic [Linear Regression](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression)
-* a Loss functions named [Mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error)
+* A loss functions named [Mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error)
 
 **Link of Work:**   I passed the time reading so no work examples for today.
 
