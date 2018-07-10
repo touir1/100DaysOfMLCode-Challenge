@@ -24,9 +24,10 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete
+* Started watching a video by Siraj Raval on Recommendation Systems
+* Dropped watching that video and started a machine learning course from scratch by [Google](https://www.google.com) ([Introduction to machine learning](https://developers.google.com/machine-learning/crash-course/)).
 
-**Thoughts** : To complete
+**Thoughts** : It wasn't as easy as yesterday to understand the content of a video on machine learning. It had a lot of terms that I don't know so I prefered to start from scratch learning ML.
 
 **What I learned**:
 
