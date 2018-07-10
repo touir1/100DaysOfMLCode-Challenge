@@ -31,11 +31,11 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **What I learned**:
 
-* Some basic [ML terminologies]()
+* Some basic [ML terminologies](https://developers.google.com/machine-learning/crash-course/framing/ml-terminology)
 * Basic [Linear Regression](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression)
 * a Loss functions named [Mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error)
 
-**Link of Work:**   Passed the time reading
+**Link of Work:**   I passed the time reading so no work examples for today.
 
 **TODO Next:**
 - [ ] Test out the linear regression algorithm (coded from scratch and using some ML libraries)
