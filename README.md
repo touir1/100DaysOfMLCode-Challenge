@@ -49,6 +49,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Watched a [video](https://www.youtube.com/watch?v=hY9Bc3mtphs) by Siraj Raval on the application of the Generative Adversarial Networks ([GAN](https://hackernoon.com/generative-adversarial-networks-a-deep-learning-architecture-4253b6d12347) for short) to discover new drugs.
 * Studied some basics of machine learning like [Partial derivative](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives/v/partial-derivatives-introduction), [Gradient Descent](https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent) and [Stochastic Gradient Descent](https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent).
+* Started a new mini project consisting of implementing the [Linear Regression](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression) algorithm using [Stochastic Gradient Descent](https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent) to reduce the loss.
 
 **Thoughts** : I think that i'm going to choose a project where i'm going to applyML in the medical field. I like that idea. I found myself lacking the basics of calculus so I started watching videos + some tutorials to fill the gap.
 
@@ -58,8 +59,8 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 * How does the partial derivative work.
 * How does the gradient descent work.
 
-**Link of Work:**   To complete
+**Link of Work:**   [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github Repository.
 
 **TODO Next:**
-- [ ] To complete
+- [ ] Implement linear regression with stochastic gradient descent from scratch.
 
