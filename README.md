@@ -43,3 +43,20 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 - [ ] Try to represent data into graphs with python.
 - [ ] Learn how to animate the learning process of ML algorithms.
 
+## Day 3 : July 11 , 2018
+ 
+**Today's Progress** : 
+
+* To complete
+
+**Thoughts** : To complete
+
+**What I learned**:
+
+* To complete
+
+**Link of Work:**   To complete
+
+**TODO Next:**
+- [ ] To complete
+
