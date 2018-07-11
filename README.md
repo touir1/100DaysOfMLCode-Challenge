@@ -48,12 +48,15 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Today's Progress** : 
 
 * Watched a [video](https://www.youtube.com/watch?v=hY9Bc3mtphs) by Siraj Raval on the application of the Generative Adversarial Networks ([GAN](https://hackernoon.com/generative-adversarial-networks-a-deep-learning-architecture-4253b6d12347) for short) to discover new drugs.
+* Studied some basics of machine learning like [Partial derivative](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives/v/partial-derivatives-introduction), [Gradient Descent](https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent) and [Stochastic Gradient Descent](https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent).
 
-**Thoughts** : I think that i'm going to choose a project where i'm going to applyML in the medical field. I like that idea.
+**Thoughts** : I think that i'm going to choose a project where i'm going to applyML in the medical field. I like that idea. I found myself lacking the basics of calculus so I started watching videos + some tutorials to fill the gap.
 
 **What I learned**:
 
-* Some new terms like GAN and Recurrent Neural Network (RNN)
+* Some new terms like GAN and Recurrent Neural Network (RNN).
+* How does the partial derivative work
+* How does the gradient descent work
 
 **Link of Work:**   To complete
 
