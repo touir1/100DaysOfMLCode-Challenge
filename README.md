@@ -47,13 +47,13 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete
+* Watched a [video](https://www.youtube.com/watch?v=hY9Bc3mtphs) by Siraj Raval on the application of the Generative Adversarial Networks ([GAN](https://hackernoon.com/generative-adversarial-networks-a-deep-learning-architecture-4253b6d12347) for short) to discover new drugs.
 
-**Thoughts** : To complete
+**Thoughts** : I think that i'm going to choose a project where i'm going to applyML in the medical field. I like that idea.
 
 **What I learned**:
 
-* To complete
+* Some new terms like GAN and Recurrent Neural Network (RNN)
 
 **Link of Work:**   To complete
 
