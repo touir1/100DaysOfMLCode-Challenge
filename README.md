@@ -55,8 +55,8 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**:
 
 * Some new terms like GAN and Recurrent Neural Network (RNN).
-* How does the partial derivative work
-* How does the gradient descent work
+* How does the partial derivative work.
+* How does the gradient descent work.
 
 **Link of Work:**   To complete
 
