@@ -68,7 +68,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete
+* Started reading how to implement linear regression in [GeeksforGeeks](https://www.geeksforgeeks.org/linear-regression-python-implementation/) website.
 
 **Thoughts** : To complete
 
