@@ -69,15 +69,16 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Today's Progress** : 
 
 * Started reading how to implement linear regression in [GeeksforGeeks](https://www.geeksforgeeks.org/linear-regression-python-implementation/) website.
+* Discovered that there is multiple types of regression. I need to study more the maths behind it.
 
-**Thoughts** : To complete
+**Thoughts** : I'm still far from having the basic knowledge for Machine learning. I think i'll study some maths before getting back to implementing algorithms.
 
-**What I learned**:
+**What I learned**: 
 
-* To complete
+* Regression is a general term describing the process of estimating the relationships among variables.
 
-**Link of Work:**   To complete
+**Link of Work:**  No coding for today.
 
 **TODO Next:**
-- [ ] To complete
+- [ ] Learn probability and calculus.
 
