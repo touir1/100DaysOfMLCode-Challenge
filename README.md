@@ -64,3 +64,20 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **TODO Next:**
 - [ ] Implement linear regression with stochastic gradient descent from scratch.
 
+## Day 4 : July 12 , 2018
+ 
+**Today's Progress** : 
+
+* To complete
+
+**Thoughts** : To complete
+
+**What I learned**:
+
+* To complete
+
+**Link of Work:**   To complete
+
+**TODO Next:**
+- [ ] To complete
+
