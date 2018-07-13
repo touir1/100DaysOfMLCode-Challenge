@@ -83,7 +83,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 - [ ] Learn probability.
 - [ ] Learn calculus.
 
-## Day 4 : July 12 , 2018
+## Day 5 : July 13 , 2018
  
 **Today's Progress** : 
 
