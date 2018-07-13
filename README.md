@@ -80,5 +80,23 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:**  No coding for today.
 
 **TODO Next:**
-- [ ] Learn probability and calculus.
+- [ ] Learn probability.
+- [ ] Learn calculus.
+
+## Day 4 : July 12 , 2018
+ 
+**Today's Progress** : 
+
+* To complete
+
+**Thoughts** : To complete
+
+**What I learned**: 
+
+* To complete
+
+**Link of Work:**  To complete
+
+**TODO Next:**
+- [ ] To complete
 
