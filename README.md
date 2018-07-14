@@ -100,3 +100,19 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **TODO Next:**
 - [ ] To complete
 
+## Day 6 : July 14 , 2018
+ 
+**Today's Progress** : 
+
+* To complete
+
+**Thoughts** : To complete
+
+**What I learned**: 
+
+* To complete
+
+**Link of Work:**  To complete
+
+**TODO Next:**
+- [ ] To complete
