@@ -87,18 +87,18 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete
+* Started learning calculus.
 
-**Thoughts** : To complete
+**Thoughts** : It's not that hard to understand, i just need time to learn it.
 
 **What I learned**: 
 
-* To complete
+* Hard problem = SUM (small problems)
 
-**Link of Work:**  To complete
+**Link of Work:**  No coding for today
 
 **TODO Next:**
-- [ ] To complete
+- [X] Continue learning calculus
 
 ## Day 6 : July 14 , 2018
  
