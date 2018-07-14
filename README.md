@@ -105,15 +105,19 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete
+* Found a book on machine learning in a [Github repository](https://github.com/jakevdp/PythonDataScienceHandbook/tree/599aa0fe3f882c0001670e676e5a8d43b92c35fc). 
+* To complete. 
 
-**Thoughts** : To complete
+**Thoughts** : The book has some nice documentation about numpy, pandas and the visualisation. 
 
 **What I learned**: 
 
-* To complete
+* To complete. 
 
 **Link of Work:**  To complete
 
 **TODO Next:**
-- [ ] To complete
+- [ ] Finish calculus course.
+- [ ] Start probability course. 
+
+
