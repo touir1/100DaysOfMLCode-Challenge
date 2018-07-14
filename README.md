@@ -94,12 +94,12 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * Hard problem = SUM (small problems). [Youtube video](https://www.youtube.com/watch?v=WUvTyaaNkzM&t=0s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) used.
-* What's a derivative. [Youtube video](https://www.youtube.com/watch?v=9vKqVkMQHKk&index=2&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* What's a derivative. [Youtube video](https://www.youtube.com/watch?v=9vKqVkMQHKk&index=2&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
-**Link of Work:**  No coding for today
+**Link of Work:**  No coding for today.
 
 **TODO Next:**
-- [X] Continue learning calculus
+- [X] Continue learning calculus.
 
 ## Day 6 : July 14 , 2018
  
