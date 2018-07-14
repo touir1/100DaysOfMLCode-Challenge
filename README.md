@@ -87,7 +87,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* Started learning calculus.
+* Started learning calculus. I'm using a youtube course by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) named [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
 **Thoughts** : It's not that hard to understand, i just need time to learn it.
 
