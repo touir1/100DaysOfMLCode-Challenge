@@ -93,7 +93,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **What I learned**: 
 
-* Hard problem = SUM (small problems)
+* Hard problem = SUM (small problems). [Youtube video](https://www.youtube.com/watch?v=WUvTyaaNkzM&t=0s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) used.
 
 **Link of Work:**  No coding for today
 
