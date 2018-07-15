@@ -131,6 +131,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * Visualizing the chain rule and product rule. [Youtube video](https://www.youtube.com/watch?v=YG15m2VwSjA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=28s&index=5).
+* Derivatives of exponentials. [Youtube video](https://www.youtube.com/watch?v=m2MIpDrF7Es&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=5).
 
 **Link of Work:**  No coding for today.
 
