@@ -106,15 +106,15 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Today's Progress** : 
 
 * Found a book on machine learning in a [Github repository](https://github.com/jakevdp/PythonDataScienceHandbook/tree/599aa0fe3f882c0001670e676e5a8d43b92c35fc). 
-* To complete. 
+* Still watching the youtube course [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).. 
 
-**Thoughts** : The book has some nice documentation about numpy, pandas and the visualisation. 
+**Thoughts** : The book has some nice documentation about numpy, pandas and the visualisation.
 
 **What I learned**: 
 
-* To complete. 
+* Derivative formulas through geometry. [Youtube video](https://www.youtube.com/watch?v=S0_qX4VJhMQ&index=3&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
-**Link of Work:**  To complete
+**Link of Work:**  No coding for today.
 
 **TODO Next:**
 - [ ] Finish calculus course.
