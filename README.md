@@ -132,10 +132,11 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Visualizing the chain rule and product rule. [Youtube video](https://www.youtube.com/watch?v=YG15m2VwSjA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=28s&index=5).
 * Derivatives of exponentials. [Youtube video](https://www.youtube.com/watch?v=m2MIpDrF7Es&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=5).
+* Implicit differentiation. [Youtube video](https://www.youtube.com/watch?v=qb40J4N1fa4&index=6&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
 **Link of Work:**  No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [X] Continue learning calculus.
 
 
