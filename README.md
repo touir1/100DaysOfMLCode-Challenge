@@ -120,4 +120,21 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 - [ ] Finish calculus course.
 - [ ] Start probability course. 
 
+## Day 7 : July 15 , 2018
+ 
+**Today's Progress** : 
+
+* Still watching the youtube course [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr). 
+
+**Thoughts** : It's easier to visualize the derivative than to memorize it's formulas that's for sure.
+
+**What I learned**: 
+
+* Visualizing the chain rule and product rule. [Youtube video](https://www.youtube.com/watch?v=YG15m2VwSjA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=28s&index=5).
+
+**Link of Work:**  No coding for today.
+
+**TODO Next:**
+- [ ] To complete.
+
 
