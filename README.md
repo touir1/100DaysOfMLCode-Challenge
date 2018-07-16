@@ -146,7 +146,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Still watching the youtube course [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr). 
 
-**Thoughts** : Just a refresher about Integrals but from another perspective.
+**Thoughts** : Just a refresher about Integrals but from another perspective. I liked how the [mean of a function](https://en.wikipedia.org/wiki/Mean_of_a_function) was represented too.
 
 **What I learned**: 
 
