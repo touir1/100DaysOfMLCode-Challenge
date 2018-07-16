@@ -144,16 +144,16 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete.
+* Still watching the youtube course [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr). 
 
-**Thoughts** : To complete.
+**Thoughts** : Just a refresher about Integrals but from another perspective.
 
 **What I learned**: 
 
-* To complete.
+* Integrals. [Youtube video](https://www.youtube.com/watch?v=rfG8ce4nNh0&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=8).
 
-**Link of Work:** To complete.
+**Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Continue learning calculus.
 
