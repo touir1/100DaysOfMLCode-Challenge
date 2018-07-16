@@ -150,7 +150,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **What I learned**: 
 
-* Integrals. [Youtube video](https://www.youtube.com/watch?v=rfG8ce4nNh0&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=8).
+* Integrals and the fundamental theorem of calculus. [Youtube video](https://www.youtube.com/watch?v=rfG8ce4nNh0&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=8).
 
 **Link of Work:** No coding for today.
 
