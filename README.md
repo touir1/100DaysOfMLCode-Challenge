@@ -140,4 +140,20 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **TODO Next:**
 - [X] Continue learning calculus.
 
+## Day 8 : July 16 , 2018
+ 
+**Today's Progress** : 
+
+* To complete.
+
+**Thoughts** : To complete.
+
+**What I learned**: 
+
+* To complete.
+
+**Link of Work:** To complete.
+
+**TODO Next:**
+- [ ] To complete.
 
