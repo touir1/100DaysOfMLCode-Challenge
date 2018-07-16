@@ -151,6 +151,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * Integrals and the fundamental theorem of calculus. [Youtube video](https://www.youtube.com/watch?v=rfG8ce4nNh0&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=8).
+* What does area have to do with slope? [Youtube video](https://www.youtube.com/watch?v=FnJqaIESC2s&index=9&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
 **Link of Work:** No coding for today.
 
