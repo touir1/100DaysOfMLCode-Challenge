@@ -174,4 +174,5 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
+- [ ] Get back to the linear regression algorithm implementation.
 - [ ] Start probability course.
