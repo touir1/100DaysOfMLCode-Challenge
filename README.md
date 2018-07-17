@@ -169,6 +169,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * Higher order derivatives. [Youtube video](https://www.youtube.com/watch?v=BLkz5LGWihw&index=10&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
+* Taylor series. [Youtube video](https://www.youtube.com/watch?v=3d6DsjIBzJ4&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=11).
 
 **Link of Work:** No coding for today.
 
