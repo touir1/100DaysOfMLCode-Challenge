@@ -81,7 +81,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [ ] Learn probability.
-- [ ] Learn calculus.
+- [X] Learn calculus.
 
 ## Day 5 : July 13 , 2018
  
@@ -117,7 +117,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:**  No coding for today.
 
 **TODO Next:**
-- [ ] Finish calculus course.
+- [X] Finish calculus course.
 - [ ] Start probability course. 
 
 ## Day 7 : July 15 , 2018
@@ -156,13 +156,13 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Continue learning calculus.
+- [X] Continue learning calculus.
 
 ## Day 9 : July 17 , 2018
  
 **Today's Progress** : 
 
-* Still watching the youtube course [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
+* Finished watching the youtube course [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
 **Thoughts** : Knowing how fast the function is changing using the second derivative is a pretty handy tip.
 
