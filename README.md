@@ -162,15 +162,15 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete.
+* Still watching the youtube course [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
-**Thoughts** : To complete.
+**Thoughts** : Knowing how fast the function is changing using the second derivative is a pretty handy tip.
 
 **What I learned**: 
 
-* To complete.
+* Higher order derivatives. [Youtube video](https://www.youtube.com/watch?v=BLkz5LGWihw&index=10&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
-**Link of Work:** To complete.
+**Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Start probability course.
