@@ -183,11 +183,12 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Got back to the linear regression implementation. I'm using a dataset from kaggle describing [Weather Conditions in World War Two](https://www.kaggle.com/smid80/weatherww2).
 
-**Thoughts** : As always, passing a lot of time debugging.
+**Thoughts** : As always, passing a lot of time debugging and finding solution for data mapping like using the mean, groupby and reset_index of the [pandas](https://pandas.pydata.org/) library. 
 
 **What I learned**: 
 
 * How to read and clean the data with [pandas](https://pandas.pydata.org/).
+* How to represent a nice plot using pandas for the mapping and [metaplotlib](https://matplotlib.org/) for the graph.
 
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
