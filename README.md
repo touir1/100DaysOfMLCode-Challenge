@@ -176,3 +176,20 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **TODO Next:**
 - [ ] Get back to the linear regression algorithm implementation.
 - [ ] Start probability course.
+
+## Day 10 : July 18 , 2018
+ 
+**Today's Progress** : 
+
+* To complete.
+
+**Thoughts** : To complete.
+
+**What I learned**: 
+
+* To complete.
+
+**Link of Work:** To complete.
+
+**TODO Next:**
+- [ ] To complete.
