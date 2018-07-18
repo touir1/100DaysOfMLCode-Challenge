@@ -174,22 +174,23 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Get back to the linear regression algorithm implementation.
+- [X] Get back to the linear regression algorithm implementation.
 - [ ] Start probability course.
 
 ## Day 10 : July 18 , 2018
  
 **Today's Progress** : 
 
-* To complete.
+* Got back to the linear regression implementation. I'm using a dataset from kaggle describing [Weather Conditions in World War Two](https://www.kaggle.com/smid80/weatherww2).
 
-**Thoughts** : To complete.
+**Thoughts** : As always, passing a lot of time debugging.
 
 **What I learned**: 
 
-* To complete.
+* How to read and clean the data with [pandas](https://pandas.pydata.org/).
 
-**Link of Work:** To complete.
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Implementing the loss function and the gradient descent.
+- [ ] Visualizing the output of the linear regression with [matplotlib](https://matplotlib.org/).
