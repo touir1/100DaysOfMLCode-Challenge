@@ -40,7 +40,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [ ] Test out the linear regression algorithm with python(coded from scratch and using some ML libraries).
-- [ ] Try to represent data into graphs with python.
+- [X] Try to represent data into graphs with python.
 - [ ] Learn how to animate the learning process of ML algorithms.
 
 ## Day 3 : July 11 , 2018
@@ -194,4 +194,23 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [ ] Implementing the loss function and the gradient descent.
-- [ ] Visualizing the output of the linear regression with [matplotlib](https://matplotlib.org/).
+- [X] Visualizing the output of the linear regression with [matplotlib](https://matplotlib.org/).
+
+## Day 11 : July 19 , 2018
+ 
+**Today's Progress** : 
+
+* Finished implementing the simple linear regression algorithm from scratch.
+
+**Thoughts** : I loved the statistics part of the simple linear regression. 
+
+**What I learned**: 
+
+* Some statistics functions like [Variance](https://en.wikipedia.org/wiki/Variance), [Covariance](https://en.wikipedia.org/wiki/Covariance) and [Mean](https://en.wikipedia.org/wiki/Mean).
+* How to use [Latex](https://en.wikipedia.org/wiki/LaTeX) maths equations in jupyter notebook.
+* How to minimize the [Root Mean Squared Error](https://en.wikipedia.org/wiki/Root-mean-square_deviation).
+
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
+
+**TODO Next:**
+- [ ] Implementing the simple linear regression using libraries.
