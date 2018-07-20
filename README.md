@@ -213,4 +213,5 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
+- [ ] Fix the Root Mean Squared Error function.
 - [ ] Implementing the simple linear regression using libraries.
