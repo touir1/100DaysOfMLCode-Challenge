@@ -39,7 +39,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:**   I passed the time reading so no work examples for today.
 
 **TODO Next:**
-- [ ] Test out the linear regression algorithm with python(coded from scratch and using some ML libraries).
+- [X] Test out the linear regression algorithm with python(coded from scratch and using some ML libraries).
 - [X] Try to represent data into graphs with python.
 - [ ] Learn how to animate the learning process of ML algorithms.
 
@@ -213,5 +213,24 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] Fix the Root Mean Squared Error function.
-- [ ] Implementing the simple linear regression using libraries.
+- [X] Fix the Root Mean Squared Error function.
+- [X] Implementing the simple linear regression using libraries.
+
+## Day 12 : July 20 , 2018
+ 
+**Today's Progress** : 
+
+* Finished implementing the simple linear regression algorithm using [scikit-learn](http://scikit-learn.org/stable/).
+
+**Thoughts** : I passed a lot of time trying to find a bug with the Series of pandas that didn't have indexes. Another thing, it's pretty easy to implement linear regression using scikit-learn. It doesn't need knowlegde about the algorithm or the logic behind it. I'm glad I tried to implement the linear regression from scratch first. 
+
+**What I learned**: 
+
+* How to use [scikit-learn](http://scikit-learn.org/stable/).
+* How to split data into training and testing.
+* How to minimize the [Root Mean Squared Error](https://en.wikipedia.org/wiki/Root-mean-square_deviation).
+
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
+
+**TODO Next:**
+- [ ] Implementing the multivariable linear regression.
