@@ -228,7 +228,6 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * How to use [scikit-learn](http://scikit-learn.org/stable/).
 * How to split data into training and testing.
-* How to minimize the [Root Mean Squared Error](https://en.wikipedia.org/wiki/Root-mean-square_deviation).
 
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
