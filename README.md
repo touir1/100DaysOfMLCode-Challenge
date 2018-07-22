@@ -233,3 +233,40 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [ ] Implementing the multivariable linear regression.
+
+## Day 13 : July 21 , 2018
+ 
+**Today's Progress** : 
+
+* Began implementing the linear regression with [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent).
+
+**Thoughts** : I like this jupyter notebook. It makes it easy to write a full document with mathematical expressions and running python code at the same time. 
+
+**What I learned**: 
+
+* Partial derivative of the [Mean Squared Error](https://en.wikipedia.org/wiki/Mean_squared_error) function.
+
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
+
+**TODO Next:**
+- [ ] Finish implementing the linear regression with [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent).
+- [ ] Animate the gradient descent with a nice graph.
+
+## Day 14 : July 22 , 2018
+ 
+**Today's Progress** : 
+
+* Still implementing the linear regression gradient descent algorithm.
+
+**Thoughts** : I'm still new with the [matplotlib](https://matplotlib.org/) library so i'm passing a lot of time understanding how it works. 
+
+**What I learned**: 
+
+* [Partial derivative](https://en.wikipedia.org/wiki/Partial_derivative) of the Mean Squared Error function.
+
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
+
+**TODO Next:**
+- [ ] Finish implementing the linear regression with gradient descent.
+- [ ] Animate the gradient descent with a nice graph.
+
