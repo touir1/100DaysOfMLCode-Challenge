@@ -62,7 +62,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:**   [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github Repository.
 
 **TODO Next:**
-- [ ] Implement linear regression with stochastic gradient descent from scratch.
+- [X] Implement linear regression with stochastic gradient descent from scratch.
 
 ## Day 4 : July 12 , 2018
  
@@ -193,7 +193,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] Implementing the loss function and the gradient descent.
+- [X] Implementing the loss function and the gradient descent.
 - [X] Visualizing the output of the linear regression with [matplotlib](https://matplotlib.org/).
 
 ## Day 11 : July 19 , 2018
@@ -249,7 +249,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] Finish implementing the linear regression with [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent).
+- [X] Finish implementing the linear regression with [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent).
 - [ ] Animate the gradient descent with a nice graph.
 
 ## Day 14 : July 22 , 2018
@@ -267,6 +267,23 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] Finish implementing the linear regression with gradient descent.
+- [X] Finish implementing the linear regression with gradient descent.
 - [ ] Animate the gradient descent with a nice graph.
+
+## Day 15 : July 23 , 2018
+ 
+**Today's Progress** : 
+
+* To complete.
+
+**Thoughts** : To complete. 
+
+**What I learned**: 
+
+* To complete.
+
+**Link of Work:** To complete.
+
+**TODO Next:**
+- [] To complete.
 
