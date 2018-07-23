@@ -250,7 +250,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [X] Finish implementing the linear regression with [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent).
-- [ ] Animate the gradient descent with a nice graph.
+- [X] Animate the gradient descent with a nice graph.
 
 ## Day 14 : July 22 , 2018
  
@@ -268,22 +268,23 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [X] Finish implementing the linear regression with gradient descent.
-- [ ] Animate the gradient descent with a nice graph.
+- [X] Animate the gradient descent with a nice graph.
 
 ## Day 15 : July 23 , 2018
  
 **Today's Progress** : 
 
-* To complete.
+* Finished implementing the linear regression with gradient descent.
 
-**Thoughts** : To complete. 
+**Thoughts** : I need to learn more about [matplotlib](https://matplotlib.org/). We can create any sort of graph with it. 
 
 **What I learned**: 
 
-* To complete.
+* How to animate the gradient descent algorithm.
 
-**Link of Work:** To complete.
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [] To complete.
+- [ ] Finish tweeking the gradient descent algorithm.
+- [ ] Implement the gradient descent with python libraries like [scikit-learn](http://scikit-learn.org/stable/).
 
