@@ -288,3 +288,19 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 - [ ] Finish tweeking the gradient descent algorithm.
 - [ ] Implement the gradient descent with python libraries like [scikit-learn](http://scikit-learn.org/stable/).
 
+## Day 16 : July 24 , 2018
+ 
+**Today's Progress** : 
+
+* To complete.
+
+**Thoughts** : To complete. 
+
+**What I learned**: 
+
+* To complete.
+
+**Link of Work:** To complete.
+
+**TODO Next:**
+- [ ] To complete.
