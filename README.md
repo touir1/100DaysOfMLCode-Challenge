@@ -292,15 +292,17 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete.
+* Passed the time optimising the gradient descent jupyter notebook code. I think the slowness is coming from my computer and not from the code but well, i'm still new so better be an optimised code.
 
-**Thoughts** : To complete. 
+**Thoughts** : I need to learn more about [matplotlib](https://matplotlib.org/). And also to learn how to get the best configuration for the algorithm (epochs, learning_rate etc).
 
 **What I learned**: 
 
-* To complete.
+* Machine learning algorithms are very slow.
+* Learned to use [pickle](https://docs.python.org/3/library/pickle.html) to save and load the data.
+* Learned to use [logging](https://docs.python.org/3/library/logging.html) to log the learning process of ML algorithms.
 
-**Link of Work:** To complete.
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Try to finish tweeking and optimising the gradient descent algorithm.
