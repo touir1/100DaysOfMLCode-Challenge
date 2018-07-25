@@ -306,3 +306,20 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [ ] Try to finish tweeking and optimising the gradient descent algorithm.
+
+## Day 17 : July 25 , 2018
+ 
+**Today's Progress** : 
+
+* To complete.
+
+**Thoughts** : To complete.
+
+**What I learned**: 
+
+* To complete.
+
+**Link of Work:** To complete.
+
+**TODO Next:**
+- [ ] To complete.
