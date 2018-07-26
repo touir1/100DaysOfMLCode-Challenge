@@ -311,15 +311,33 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete.
+* Passed the time debugging the code trying to figure out why it's slow and why the Mean Squared Error is going up.
 
-**Thoughts** : To complete.
+**Thoughts** : It's easy to understand an algorithm but when it comes to implementation, that's were you'll have a hard time. But well, I learned a lot doing so and i'm intending to continue doing so.
 
 **What I learned**: 
 
-* To complete.
+* Sometimes, a misplaced parameter in a function could get you a hedache just to find where the bug comes from. I need to pass the parameters with their names next.
 
-**Link of Work:** To complete.
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Learn more about gradient descent.
+
+## Day 18 : July 26 , 2018
+ 
+**Today's Progress** : 
+
+* I finished implementing the gradient descent and debugging it. And I searched the net to find out more about gradient descent.
+
+**Thoughts** : There is much more things to learn about gradient descent and the learning rate. I never though that the parameters could be dynamic.
+
+**What I learned**: 
+
+* There is 3 types of gradient descent: One that uses all of the data (batch), one that uses one random value (stochastic) and the third uses a randomly selected values from the set (mini batch).
+* There is algorithms to tweek the parameters (learning rate) of gradient descent dynamically.
+
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
+
+**TODO Next:**
+- [ ] Try to implement the three types of gradient descent and see the difference.
