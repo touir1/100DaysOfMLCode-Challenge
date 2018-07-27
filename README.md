@@ -341,3 +341,20 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [ ] Try to implement the three types of gradient descent and see the difference.
+
+## Day 19 : July 27 , 2018
+ 
+**Today's Progress** : 
+
+* To complete.
+
+**Thoughts** : To complete.
+
+**What I learned**: 
+
+* To complete.
+
+**Link of Work:** To complete.
+
+**TODO Next:**
+- [ ] To complete.
