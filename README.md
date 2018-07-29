@@ -41,7 +41,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **TODO Next:**
 - [X] Test out the linear regression algorithm with python(coded from scratch and using some ML libraries).
 - [X] Try to represent data into graphs with python.
-- [ ] Learn how to animate the learning process of ML algorithms.
+- [X] Learn how to animate the learning process of ML algorithms.
 
 ## Day 3 : July 11 , 2018
  
@@ -285,7 +285,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] Finish tweeking the gradient descent algorithm.
+- [X] Finish tweeking the gradient descent algorithm.
 - [ ] Implement the gradient descent with python libraries like [scikit-learn](http://scikit-learn.org/stable/).
 
 ## Day 16 : July 24 , 2018
@@ -305,7 +305,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] Try to finish tweeking and optimising the gradient descent algorithm.
+- [X] Try to finish tweeking and optimising the gradient descent algorithm.
 
 ## Day 17 : July 25 , 2018
  
@@ -322,7 +322,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] Learn more about gradient descent.
+- [X] Learn more about gradient descent.
 
 ## Day 18 : July 26 , 2018
  
@@ -340,38 +340,46 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] Try to implement the three types of gradient descent and see the difference.
+- [X] Try to implement the three types of gradient descent and see the difference.
 
 ## Day 19 : July 27 , 2018
  
 **Today's Progress** : 
 
-* To complete.
+* Passed the day studying about the gradient descent and it's different types and trying to implement them.
+* Watched [Siraj Raval](https://twitter.com/sirajraval)'s [video](https://www.youtube.com/watch?v=suRd3UzdBeo) about a kaggle challenge and the use of [XGBoost](https://en.wikipedia.org/wiki/Xgboost).
 
-**Thoughts** : To complete.
+**Thoughts** : It's pretty funny how we can jump from a subject to another. I found myself searching about [hyperparameters](https://en.wikipedia.org/wiki/Hyperparameter) optimal values using algorithms such as [Bayesian optimal hyperparameters tuning](https://arimo.com/data-science/2016/bayesian-optimization-hyperparameter-tuning/) while watching siraj's video. I didn't dig in further i'll put that as a goal for another time. 
 
 **What I learned**: 
 
-* To complete.
+* We can use algorithms to tweek our hyperparameters.
+* I think the optimal method for the gradient descent is the mini-batch which is a mix between the batch method and the stochastic method.
 
-**Link of Work:** To complete.
+**Additional sources:**
+** https://www.hackerearth.com/blog/machine-learning/3-types-gradient-descent-algorithms-small-large-data-sets/
+
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Learn more about the optimisation of hyperparameters.
+- [X] Finish implementing the 3 gradient descent algorithms.
 
 ## Day 20 : July 28 , 2018
  
 **Today's Progress** : 
 
-* To complete.
+* Finished implementing the 3 methods of gradient descent algorithm.
 
-**Thoughts** : To complete.
+**Thoughts** : The stochastic approche is very sloppy i think. It's MSE values aren't very stable.
 
 **What I learned**: 
 
-* To complete.
+* How to pin images with the markdown of a jupyter notebook.
+* How to shuffle 2 arrays at the same time using zip.
+* Learned more about the [matplotlib](https://matplotlib.org/) library.
 
-**Link of Work:** To complete.
+**Link of Work:** [linear-regression-SGD](https://github.com/touir1/linear-regression-SGD) Github repository.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Implement the gradient descent using python libraries such as [scikit-learn](http://scikit-learn.org/stable/).
