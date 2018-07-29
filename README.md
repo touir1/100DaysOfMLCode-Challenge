@@ -388,15 +388,15 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete.
+* Got back to the [Machine learning course](https://www.udacity.com/course/intro-to-machine-learning--ud120) hosted by [Udacity](https://www.udacity.com/).
 
-**Thoughts** : To complete.
+**Thoughts** : I forgot about a lot of things that i started before. One of them is this course of machine learning where I lastly implemented [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) algorithm using [scikit-learn](http://scikit-learn.org/stable/).
 
 **What I learned**: 
 
-* To complete.
+* Machine learning is a vast field and i don't know from where to start.
 
-**Link of Work:** To complete.
+**Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Implementing the naive bayes classifier from scatch with python.
