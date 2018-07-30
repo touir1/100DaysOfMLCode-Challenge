@@ -405,15 +405,16 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete.
+* Started the [naive bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) project but I passed the time learning more about naive bayes.
 
-**Thoughts** : To complete.
+**Thoughts** : It's nice to see probalitics in action. After the implementation, I think i'll start the probability course.
 
 **What I learned**: 
 
-* To complete.
+* Learned a little bit about [naive bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier).
 
-**Link of Work:** To complete.
+**Link of Work:** [https://github.com/touir1/naive-bayes](https://github.com/touir1/naive-bayes) Github repository.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Finish up the naive bayes implementation from scratch.
+- [ ] Start learning probabilities.
