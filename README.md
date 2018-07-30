@@ -413,7 +413,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Learned a little bit about [naive bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier).
 
-**Link of Work:** [https://github.com/touir1/naive-bayes](https://github.com/touir1/naive-bayes) Github repository.
+**Link of Work:** [naive-bayes](https://github.com/touir1/naive-bayes) Github repository.
 
 **TODO Next:**
 - [ ] Finish up the naive bayes implementation from scratch.
