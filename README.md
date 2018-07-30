@@ -395,6 +395,8 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * Machine learning is a vast field and i don't know from where to start.
+* How to drop random rows respecting a condition in [pandas](https://pandas.pydata.org/) Dataframe.
+* How to plot a pandas Dataframe directly.
 
 **Link of Work:** No coding for today.
 
