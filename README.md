@@ -395,8 +395,6 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * Machine learning is a vast field and i don't know from where to start.
-* How to drop random rows respecting a condition in [pandas](https://pandas.pydata.org/) Dataframe.
-* How to plot a pandas Dataframe directly.
 
 **Link of Work:** No coding for today.
 
@@ -414,9 +412,28 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * Learned a little bit about [naive bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier).
+* How to drop random rows respecting a condition in [pandas](https://pandas.pydata.org/) Dataframe.
+* How to plot a pandas Dataframe directly.
 
 **Link of Work:** [naive-bayes](https://github.com/touir1/naive-bayes) Github repository.
 
 **TODO Next:**
 - [ ] Finish up the naive bayes implementation from scratch.
 - [ ] Start learning probabilities.
+
+## Day 23 : July 31 , 2018
+ 
+**Today's Progress** : 
+
+* To complete.
+
+**Thoughts** : To complete.
+
+**What I learned**: 
+
+* To complete.
+
+**Link of Work:** To complete.
+
+**TODO Next:**
+- [ ] To complete.
