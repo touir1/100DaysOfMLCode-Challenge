@@ -419,24 +419,24 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [ ] Finish up the naive bayes implementation from scratch.
-- [ ] Start learning probabilities.
+- [X] Start learning probabilities.
 
 ## Day 23 : July 31 , 2018
  
 **Today's Progress** : 
 
-* To complete.
+* I starded a [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform.
 
-**Thoughts** : To complete.
+**Thoughts** : probability is not that hard I think. Or maybe it's going to be harder if I dive deeper into the course.
 
 **What I learned**: 
 
-* To complete.
+* Some axioms and derivatives in probability like the additivity, the union and such.
 
-**Link of Work:** To complete.
+**Link of Work:** No coding for todat.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Dive deeper into the probability course.
 
 ## Day 24 : August 01 , 2018
  
