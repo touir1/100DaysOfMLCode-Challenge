@@ -433,7 +433,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Some axioms and derivatives in probability like the additivity, the union and such.
 
-**Link of Work:** No coding for todat.
+**Link of Work:** No coding for today.
 
 **TODO Next:**
 - [ ] Dive deeper into the probability course.
@@ -442,18 +442,18 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* To complete.
+* Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform.
 
-**Thoughts** : To complete.
+**Thoughts** : This course is more and more interesting. It's a complete probability course going through each notion in detail. I love it.
 
 **What I learned**: 
 
-* To complete.
+* Studied some examples of probability (discrete and continuous) and learned about [countable additivity](https://www.statlect.com/glossary/countable-additivity).
 
-**Link of Work:** To complete.
+**Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Continue studying probability.
 
 ## Day 25 : August 02 , 2018
  
