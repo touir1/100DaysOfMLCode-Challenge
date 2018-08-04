@@ -501,6 +501,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * What's called [infinite series](https://www.mathsisfun.com/algebra/infinite-series.html).
+* A quick reminder of [geometric series](https://en.wikipedia.org/wiki/Geometric_series).
 
 **Link of Work:** No coding for today.
 
