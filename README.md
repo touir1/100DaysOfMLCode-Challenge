@@ -471,24 +471,24 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Continue studying probability.
+- [X] Continue studying probability.
 
 ## Day 26 : August 03 , 2018
  
 **Today's Progress** : 
 
-* To complete.
+* Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform.
 
-**Thoughts** : To complete.
+**Thoughts** : I didn't have time the past few days to to do big steps in the learning of probability but now, i'm free.
 
 **What I learned**: 
 
-* To complete.
+* Some basic [Sequence](https://en.wikipedia.org/wiki/Sequence) theory like the convergence and limit of a sequence.
 
-**Link of Work:** To complete.
+**Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Continue studying probability.
 
 ## Day 27 : August 04 , 2018
  
