@@ -466,6 +466,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * Some basic [Set](https://en.wikipedia.org/wiki/Set_(mathematics)) theory.
+* Learned [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws) for the complement of a union and a complement of a set.
 
 **Link of Work:** No coding for today.
 
