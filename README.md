@@ -118,7 +118,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [X] Finish calculus course.
-- [ ] Start probability course. 
+- [X] Start probability course. 
 
 ## Day 7 : July 15 , 2018
  
@@ -175,7 +175,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [X] Get back to the linear regression algorithm implementation.
-- [ ] Start probability course.
+- [X] Start probability course.
 
 ## Day 10 : July 18 , 2018
  
