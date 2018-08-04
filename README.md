@@ -453,24 +453,24 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Continue studying probability.
+- [X] Continue studying probability.
 
 ## Day 25 : August 02 , 2018
  
 **Today's Progress** : 
 
-* To complete.
+* Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform.
 
-**Thoughts** : To complete.
+**Thoughts** : The course is now stating some basic knowledge to understand probability.
 
 **What I learned**: 
 
-* To complete.
+* Some basic [Set](https://en.wikipedia.org/wiki/Set_(mathematics)) theory.
 
-**Link of Work:** To complete.
+**Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Continue studying probability.
 
 ## Day 26 : August 03 , 2018
  
