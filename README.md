@@ -502,6 +502,8 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * What's called [infinite series](https://www.mathsisfun.com/algebra/infinite-series.html).
 * A quick reminder of [geometric series](https://en.wikipedia.org/wiki/Geometric_series).
+* Learned about [countable](https://en.wikipedia.org/wiki/Countable_set) and [uncountable](https://en.wikipedia.org/wiki/Uncountable_set) sets.
+* Learned about [Cantor's diagonalisation argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument). to prove that the set of real numbers is uncountable. 
 
 **Link of Work:** No coding for today.
 
