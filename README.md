@@ -540,7 +540,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * The [Bonferroni's inequality](https://en.wikipedia.org/wiki/Boole%27s_inequality#Bonferroni_inequalities).
-* The [conditionnal probabilities] definition.
+* The [conditionnal probabilities](https://en.wikipedia.org/wiki/Conditional_probability) definition.
 
 **Link of Work:** No coding for today.
 
