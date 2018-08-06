@@ -527,3 +527,20 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **TODO Next:**
 - [ ] To complete.
+
+## Day 29 : August 06 , 2018
+ 
+**Today's Progress** : 
+
+* Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform.
+
+**Thoughts** : To complete.
+
+**What I learned**: 
+
+* To complete. 
+
+**Link of Work:** No coding for today.
+
+**TODO Next:**
+- [ ] To complete.
