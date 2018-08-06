@@ -539,7 +539,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **What I learned**: 
 
-* To complete. 
+* The [Bonferroni's inequality](https://en.wikipedia.org/wiki/Boole%27s_inequality#Bonferroni_inequalities). 
 
 **Link of Work:** No coding for today.
 
