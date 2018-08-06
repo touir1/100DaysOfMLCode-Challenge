@@ -508,7 +508,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Continue studying probability.
+- [X] Continue studying probability.
 - [ ] Get back to coding.
 
 ## Day 28 : August 05 , 2018
@@ -517,16 +517,16 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform.
 
-**Thoughts** : To complete.
+**Thoughts** : [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram) is a nice tool to simplify a probability problem.
 
 **What I learned**: 
 
-* To complete. 
+* How to solve [Geniuses and chocolates](https://www.youtube.com/watch?v=y7lV5jwK27E) problem using [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram). 
 
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Continue studying probability.
 
 ## Day 29 : August 06 , 2018
  
