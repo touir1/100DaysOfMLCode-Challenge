@@ -533,7 +533,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform.
+* Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform. Now i'm at the Unit 2 of the course (Conditioning and independence).
 
 **Thoughts** : Bayes rule, here we go. I'm now studying conditionnal probability. next up is bayes rule i think.
 
