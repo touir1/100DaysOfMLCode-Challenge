@@ -527,7 +527,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Continue studying probability.
+- [X] Continue studying probability.
 
 ## Day 29 : August 06 , 2018
  
@@ -535,13 +535,14 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform.
 
-**Thoughts** : To complete.
+**Thoughts** : Bayes rule, here we go. I'm now studying conditionnal probability. next up is bayes rule i think.
 
 **What I learned**: 
 
-* The [Bonferroni's inequality](https://en.wikipedia.org/wiki/Boole%27s_inequality#Bonferroni_inequalities). 
+* The [Bonferroni's inequality](https://en.wikipedia.org/wiki/Boole%27s_inequality#Bonferroni_inequalities).
+* The [conditionnal probabilities] definition.
 
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Learn Bayes rule.
