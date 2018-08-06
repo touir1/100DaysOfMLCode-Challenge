@@ -521,7 +521,8 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 **What I learned**: 
 
-* How to solve [Geniuses and chocolates](https://www.youtube.com/watch?v=y7lV5jwK27E) problem using [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram). 
+* How to solve [Geniuses and chocolates](https://www.youtube.com/watch?v=y7lV5jwK27E) problem using [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram).
+* Learned some uniform probabilities on a square in a video featuring [Romeo and Juliette](https://www.youtube.com/watch?v=jxxrwZtpHH0) problem to meet up.
 
 **Link of Work:** No coding for today.
 
