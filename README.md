@@ -554,12 +554,13 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 * Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform. Now i'm at the Unit 2 of the course (Conditioning and independence).
 * Watched Siraj's [video](https://www.youtube.com/watch?v=H6ii7NFdDeg) on [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression).
 
-**Thoughts** : To complete.
+**Thoughts** : I'm just learning here . I'll try to learn the Bayes rule the next day so that I can resume my naive bayes implementation work.
 
 **What I learned**: 
 
 * Logistic regression is based on the [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function).
 * Conditional probabilities obey the same axioms as the simple probabiliies. Proof: [youtube link](https://www.youtube.com/watch?v=L_pEeYLGaP0).
+* The [multiplication rule](https://www.khanacademy.org/math/ap-statistics/probability-ap/probability-multiplication-rule/a/general-multiplication-rule) of probability.
 
 **Link of Work:** No coding for today.
 
