@@ -552,12 +552,13 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Today's Progress** : 
 
 * Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform. Now i'm at the Unit 2 of the course (Conditioning and independence).
+* Watched Siraj's [video](https://www.youtube.com/watch?v=H6ii7NFdDeg) on [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression).
 
 **Thoughts** : To complete.
 
 **What I learned**: 
 
-* To complete.
+* Logistic regression is based on the [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function).
 
 **Link of Work:** No coding for today.
 
