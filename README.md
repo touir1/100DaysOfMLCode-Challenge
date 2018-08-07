@@ -559,8 +559,9 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * Logistic regression is based on the [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function).
+* Conditional probabilities obey the same axioms as the simple probabiliies. Proof: [youtube link](https://www.youtube.com/watch?v=L_pEeYLGaP0).
 
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Continue learning probabilities.
