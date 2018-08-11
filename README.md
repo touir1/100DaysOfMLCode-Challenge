@@ -565,21 +565,22 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Continue learning probabilities.
+- [X] Continue learning probabilities.
 
-## Day 31 : August 08 , 2018
+## Day 31 : August 11 , 201
  
 **Today's Progress** : 
 
 * Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform. Now i'm at the Unit 2 of the course (Conditioning and independence).
 
-**Thoughts** : To complete.
+**Thoughts** : Couldn't keep up the daily learning because of personnal reasons. But now I have some free time to spare for the learning.
 
 **What I learned**: 
 
-* To complete.
+* Learned the [Total probability theorem](https://en.wikipedia.org/wiki/Law_of_total_probability).
+* Learned the [Bayes rule](https://en.wikipedia.org/wiki/Bayes%27_theorem) and the [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference).
 
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Get back to coding.
