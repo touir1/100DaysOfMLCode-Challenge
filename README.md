@@ -580,7 +580,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 * Learned the [Total probability theorem](https://en.wikipedia.org/wiki/Law_of_total_probability).
 * Learned the [Bayes rule](https://en.wikipedia.org/wiki/Bayes%27_theorem) and the [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference).
 * Studied a [coin tossing example](https://www.youtube.com/watch?v=rZKUmNvCjis) talking about conditionnal probability of two independent events.
-* Learned the difference between independent and disjoint and the formal definition of [independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)) in this [video](https://www.youtube.com/watch?v=w423ypsUHf0).
+* Learned the difference between independent and disjoint events and the formal definition of [independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)) in this [video](https://www.youtube.com/watch?v=w423ypsUHf0).
 
 **Link of Work:** No coding for today.
 
