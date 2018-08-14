@@ -594,11 +594,11 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform. Now i'm at the Unit 2 of the course (Conditioning and independence).
 
-**Thoughts** : To complete.
+**Thoughts** : If A and B are 2 independent events, that doesn't mean that A|C and B|C are independent.
 
 **What I learned**: 
 
-* To complete.
+* Learned [conditional independence](https://en.wikipedia.org/wiki/Conditional_independence).
 
 **Link of Work:** No coding for today.
 
