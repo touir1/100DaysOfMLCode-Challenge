@@ -612,16 +612,18 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform. Now i'm at the Unit 2 of the course (Conditioning and independence).
 
-**Thoughts** : To complete.
+**Thoughts** : reliability is worth investigating more i think.
 
 **What I learned**: 
 
-* To complete.
+* Learned the [independence versus pairwise independence](https://www.youtube.com/watch?v=aJXfyfQs2Mc).
+* Learned about [reliability](https://www.youtube.com/watch?v=UDkq_cLVSmc).
+* Watched a video on [the King's sibling](https://www.youtube.com/watch?v=iPWyElxtk-8).
 
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Finish the Unit 2 of the probability course.
 
 ## Day 34 : August 14 , 2018
  
