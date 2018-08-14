@@ -545,7 +545,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Learn Bayes rule.
+- [X] Learn Bayes rule.
 
 ## Day 30 : August 07 , 2018
  
@@ -599,11 +599,12 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **What I learned**: 
 
 * Learned [conditional independence](https://en.wikipedia.org/wiki/Conditional_independence).
+* Learned [independence of a collection of events](https://www.youtube.com/watch?v=UbQcqFH33G0).
 
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Finish the Unit 2 of the probability course.
 
 ## Day 33 : August 13 , 2018
  
