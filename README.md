@@ -2,6 +2,9 @@
 
 This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
+[![npm](https://img.shields.io/badge/Challenge_Video-ON-green.svg?style=flat-square&maxAge=600)](https://www.youtube.com/watch?v=cuQMBj1cWPo)
+[![npm](https://img.shields.io/badge/Log_website-ON-blue.svg?style=flat-square&maxAge=600)](https://touir1.github.io/100DaysOfMLCode-Challenge/)
+
 ## Day 1 : July 09 , 2018
  
 **Today's Progress** : 
