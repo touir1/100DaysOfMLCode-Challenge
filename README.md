@@ -607,7 +607,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Finish the Unit 2 of the probability course.
+- [X] Finish the Unit 2 of the probability course.
 
 ## Day 33 : August 13 , 2018
  
@@ -626,7 +626,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Finish the Unit 2 of the probability course.
+- [X] Finish the Unit 2 of the probability course.
 
 ## Day 34 : August 14 , 2018
  
@@ -644,7 +644,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Continue watching problems until the end of Unit 2.
+- [X] Continue watching problems until the end of Unit 2.
 
 ## Day 35 : August 15 , 2018
  
@@ -663,7 +663,7 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] Finish the last videos of Unit 2.
+- [X] Finish the last videos of Unit 2.
 
 ## Day 36 : August 16 , 2018
  
