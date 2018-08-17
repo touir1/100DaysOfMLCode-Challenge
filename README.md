@@ -669,18 +669,20 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
  
 **Today's Progress** : 
 
-* Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform. Now i'm at the Unit 2 of the course (Conditioning and independence).
+* Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform. Now I've just finished the Unit 2 of the course (Conditioning and independence).
 
-**Thoughts** : To complete.
+**Thoughts** : Unit 2 is finally over. Now we can chill a little, code a little then begin the Unit 3.
 
 **What I learned**: 
 
-* To complete.
+* Watched a nice video on the [Communication over a noisy channel](https://www.youtube.com/watch?v=rzg_CavQI_M).
+* Watched a video about a [Network reliability](https://www.youtube.com/watch?v=PqZj8pySQiU) problem
 
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Start coding again.
+- [ ] Start Unit 3 of the edx course.
 
 ## Day 37 : August 17 , 2018
  
