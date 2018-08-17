@@ -631,16 +631,17 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform. Now i'm at the Unit 2 of the course (Conditioning and independence).
 
-**Thoughts** : To complete.
+**Thoughts** : The process of learning is taking to much time. I wonder if it's the right thingg to do unstead of coding.
 
 **What I learned**: 
 
-* To complete.
+* Watched a [conditional probability example](https://www.youtube.com/watch?v=6MffbP5O2v0) video.
+* Watched a [chess tournament problem](https://www.youtube.com/watch?v=eilGapl5cz8) video.
 
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Continue watching problems until the end of Unit 2.
 
 ## Day 35 : August 15 , 2018
  
