@@ -652,16 +652,18 @@ This challenge was proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 * Still studying probability using this [probability course](https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x) on [edX](https://www.edx.org/) plateform. Now i'm at the Unit 2 of the course (Conditioning and independence).
 
-**Thoughts** : To complete.
+**Thoughts** : 2 other problems (videos on edx) and i'm officially closing the unit 2.
 
 **What I learned**: 
 
-* To complete.
+* Watched a [coin tossing puzzle](https://www.youtube.com/watch?v=S_Egep9GOpQ) video.
+* Learned how to solve [The Monty Hall problem](https://www.youtube.com/watch?v=UgKrQ2ywVfs).
+* Learned about the [Random walk](https://www.youtube.com/watch?v=ya1braz5n88) problem.
 
 **Link of Work:** No coding for today.
 
 **TODO Next:**
-- [ ] To complete.
+- [ ] Finish the last videos of Unit 2.
 
 ## Day 36 : August 16 , 2018
  
